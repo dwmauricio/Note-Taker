@@ -1,0 +1,17 @@
+[
+    {
+    "title": "test run",
+    "body": "Journal entry 1",
+    "journal": "food"
+    },
+    {
+    "title": "Test 2",
+    "body": "Journal Entry 2",
+    "journal": "excercise"
+    },
+    {
+    "title": "ouch",
+    "body": "dude",
+    "journal": "food"
+    }
+    ]
